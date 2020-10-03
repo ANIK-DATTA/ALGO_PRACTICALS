@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// recursion binary search
 void main()
 {
     int ar[] = {2,3,4,10,21,29,55};
